@@ -1,0 +1,50 @@
+<config>
+	<name>51cto</name>
+	<version>1.0.0</version>
+	<enable>1</enable>
+
+<!-- 
+domian:if crawls blogs in 51cto, it is not need to fill in domain, 
+       but if it is to crawl user profile page, domain is needed 
+
+title: is basically for one page scrawling.
+info: split with blank space, present the category the articles.
+      keys can be:
+      language: java, oc, c, c++, c#, php 
+      os: linux, unix, windows, mac
+      platform: android, ios
+      framework: spring, hibernate
+      company: google, apple, microsoft, baidu, alibaba, ibm
+	  other keys: 移动开发, 服务器开发，架构，云
+-->
+	<authors>
+		<!-- http://gauyanm.blog.51cto.com/629619/1715801 -->
+		<author>
+			<domain>http://gauyanm.blog.51cto.com/</domain>
+			<account>gauyanm</account>
+			<id>629619</id>
+			<pageSize>26</pageSize>
+			<enable>1</enable>
+			<title></title>
+			<nickName></nickName>
+			<info>linux java</info>
+			<extra1></extra1>
+			<extra2></extra2>
+			<extra3></extra3>
+		</author>
+		<!-- http://rainbird.blog.51cto.com/211214/1600504 -->
+		<author>
+			<domain></domain>
+			<account>rainbird</account>
+			<id>211214</id>
+			<pageSize>41</pageSize>
+			<enable>1</enable>
+			<title></title>
+			<nickName></nickName>
+			<info>linux ios</info>
+			<extra1></extra1>
+			<extra2></extra2>
+			<extra3></extra3>
+		</author>
+	</authors>
+</config>  

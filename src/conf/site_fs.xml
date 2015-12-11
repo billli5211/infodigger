@@ -1,0 +1,34 @@
+<config>
+	<name>fs</name>
+	<version>1.0.0</version>
+	<enable>0</enable>
+
+	<authors>
+		<author>
+			<domain>http://finalshares.com/thread-139</domain>
+			<account></account>
+			<id></id>
+			<pageSize></pageSize>
+			<enable>0</enable>
+			<title></title>
+			<nickName></nickName>
+			<info></info>
+			<extra1></extra1>
+			<extra2></extra2>
+			<extra3></extra3>
+		</author>
+		<author>
+			<domain></domain>
+			<account></account>
+			<id></id>
+			<pageSize></pageSize>
+			<enable>0</enable>
+			<title></title>
+			<nickName></nickName>
+			<info></info>
+			<extra1></extra1>
+			<extra2></extra2>
+			<extra3></extra3>
+		</author>
+	</authors>
+</config>  

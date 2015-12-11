@@ -1,0 +1,34 @@
+<config>
+	<name>csdn</name>
+	<version>1.0.0</version>
+	<enable>1</enable>
+
+	<authors>
+		<author>
+			<domain>http://blog.csdn.net/</domain>
+			<account>iispring</account>
+			<id>sunqunsunqun</id>
+			<pageSize>11</pageSize>
+			<enable>1</enable>
+			<title></title>
+			<nickName></nickName>
+			<info></info>
+			<extra1></extra1>
+			<extra2></extra2>
+			<extra3></extra3>
+		</author>
+		<author>
+			<domain>http://my.csdn.net/</domain>
+			<account></account>
+			<id></id>
+			<pageSize></pageSize>
+			<enable>0</enable>
+			<title></title>
+			<nickName></nickName>
+			<info></info>
+			<extra1></extra1>
+			<extra2></extra2>
+			<extra3></extra3>
+		</author>
+	</authors>
+</config>  

@@ -1,0 +1,35 @@
+<config>
+	<name>common</name>
+	<version>1.0.0</version>
+	<enable>0</enable>
+
+	<authors>
+		<author>
+			<domain>http://www.douban.com/group/topic/70867518/?start=</domain>
+			<account>70867518</account>
+			<id></id>
+			<pageSize>8</pageSize>
+			<enable>1</enable>
+			<title>华为JAVA技术学习视频资料</title>
+			<nickName></nickName>
+			<info></info>
+			<extra1></extra1>
+			<extra2></extra2>
+			<extra3></extra3>
+		</author>
+		<author>
+			<domain>http://tieba.baidu.com/p/4117828178?pn=</domain>
+			<account>4117828178</account>
+			<id></id>
+			<pageSize>30</pageSize>
+			<enable>1</enable>
+			<title>福利来了！！！2015最新Android开发应用视频教程发布</title>
+			<nickName></nickName>
+			<info></info>
+			<extra1></extra1>
+			<extra2></extra2>
+			<extra3></extra3>
+		</author>
+	</authors>
+
+</config>  
